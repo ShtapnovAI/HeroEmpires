@@ -1,0 +1,10 @@
+[
+  {
+    "name": "Элара",
+    "strength": 10,
+    "rarity": "Редкое",
+    "heroClass": "Друиды",
+    "element": "Зелёный",
+    "healer": true
+  }
+]
