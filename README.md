@@ -75,7 +75,7 @@ String choice = input.nextLine().trim();
 
 ## Ссылки:
 * <https://stepik.org/course/214865/syllabus>
-* [Ссылка на курс по ГИТ](https://stepik.org/course/214865/syllabus)
+* [Статья по Маркдаун](https://skillbox.ru/media/code/yazyk-razmetki-markdown-shpargalka-po-sintaksisu-s-primerami/)
 * [Ссылка на курс по ГИТ](https://stepik.org/course/214865/syllabus "Нажми меня и изучай")
 
 <p align="right">
